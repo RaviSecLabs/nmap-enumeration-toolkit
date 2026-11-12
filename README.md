@@ -1,5 +1,9 @@
 # Nmap Enumeration Toolkit
 
+## Dashboard Preview
+
+![Nmap Security Dashboard](screenshots/tcp_security_dashboard.png)
+
 **Automated TCP/UDP enumeration, NSE script inventory, and offline HTML security reporting.**
 
 An educational security automation project for **systems you own or have explicit permission to assess**. Built for isolated Linux/Metasploitable lab environments.

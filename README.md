@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Nmap Security Dashboard](screenshots/tcp_security_dashboard.png)
+![Nmap Security Dashboard](screenshots/udp_security_dashboard.png)
 
 **Automated TCP/UDP enumeration, NSE script inventory, and offline HTML security reporting.**
 
